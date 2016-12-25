@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Lineage OS
+name: tomaja
 
 # Short bio or description (displayed in the header)
-description: Lineage OS Android Distribution
+description: test
 
 
 #
@@ -15,20 +15,7 @@ description: Lineage OS Android Distribution
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook: lineageandroid
-  flickr:
-  github: lineageos
-  instagram:
-  linkedin:
-  pinterest:
-  rss: true # just type anything here for a working RSS icon
-  twitter: lineageandroid
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: 109462427896521371620 # anything in your profile username that comes after plus.google.com/
-
+  github: tomaja
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
